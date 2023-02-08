@@ -793,6 +793,8 @@ body {
   }
   
   .portfolio .portfolio-wrap {
+    width: 100%;
+    height: 300px;
     transition: 0.3s;
     position: relative;
     overflow: hidden;
@@ -961,9 +963,9 @@ body {
   }
   
   .testimonials .testimonial-item .testimonial-img {
-    width: 90px;
-    border-radius: 50%;
-    border: 4px solid #fff;
+    width: 100%;
+    border: 10px solid #009970;
+    border-radius: 10px;
     margin: 0 auto;
   }
   
